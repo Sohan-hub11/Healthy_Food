@@ -15,3 +15,9 @@ A basic, clean and interactive React application showcasing a list of healthy fo
   - ErrorMessage → shows if no items available
   - Container → layout wrapper
 - Styled using Bootstrap for responsive, clean UI
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
